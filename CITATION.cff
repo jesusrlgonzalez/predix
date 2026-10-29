@@ -8,8 +8,8 @@ authors:
 license: MIT
 version: "1.2.0"
 date-released: "2026-10-16"
-repository-code: "https://github.com/jesusgonzalezmexdata-ux/predix"
-url: "https://jesusgonzalezmexdata-ux.github.io/predix/"
+repository-code: "https://github.com/jesusrlgonzalez/predix"
+url: "https://jesusrlgonzalez.github.io/predix/"
 keywords:
   - demand forecasting
   - inventory optimization

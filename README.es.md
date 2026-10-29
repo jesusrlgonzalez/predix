@@ -2,7 +2,7 @@
 
 *[English](README.md) · Español*
 
-**[Demo en vivo](https://huggingface.co/spaces/JesusRLGonzalez/predix)** | **[Página del proyecto](https://jesusgonzalezmexdata-ux.github.io/predix/)**
+**[Demo en vivo](https://huggingface.co/spaces/JesusRLGonzalez/predix)** | **[Página del proyecto](https://jesusrlgonzalez.github.io/predix/)**
 
 **Cuánto pedir cada lunes y jueves en una tienda de abarrotes, a partir de la demanda real y no solo de lo que se alcanzó a vender.**
 
@@ -63,7 +63,7 @@ El análisis completo está en [`notebooks/analisis_predix.ipynb`](notebooks/ana
 
 ## Aplicación de pedido por ruta (MVP)
 
-**[Abrir la aplicación](https://jesusgonzalezmexdata-ux.github.io/predix/ruta/)** · funciona sin señal después de la primera visita · los datos se quedan en el dispositivo
+**[Abrir la aplicación](https://jesusrlgonzalez.github.io/predix/ruta/)** · funciona sin señal después de la primera visita · los datos se quedan en el dispositivo
 
 Para distribuidores y preventa que definen el pedido de cada tienda. Sube el historial de visitas (CSV: fecha, tienda, producto, piezas dejadas, caducadas recogidas y si estaba agotado al llegar) y obtén:
 

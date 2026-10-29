@@ -2,7 +2,7 @@
 
 *English · [Español](README.es.md)*
 
-**[Live demo](https://huggingface.co/spaces/JesusRLGonzalez/predix)** | **[Project page](https://jesusgonzalezmexdata-ux.github.io/predix/)**
+**[Live demo](https://huggingface.co/spaces/JesusRLGonzalez/predix)** | **[Project page](https://jesusrlgonzalez.github.io/predix/)**
 
 **How much to order every Monday and Thursday in a corner grocery store, based on real demand and not only on what the store managed to sell.**
 
@@ -63,7 +63,7 @@ The full analysis is in [`notebooks/analisis_predix.ipynb`](notebooks/analisis_p
 
 ## Route order app (MVP)
 
-**[Open the app](https://jesusgonzalezmexdata-ux.github.io/predix/ruta/)** · works offline after the first visit · data stay on the device
+**[Open the app](https://jesusrlgonzalez.github.io/predix/ruta/)** · works offline after the first visit · data stay on the device
 
 For distributors and route sales that set each store's order. Upload the visit history (CSV: date, store, product, units left, expired units collected, sold out on arrival) and get:
 

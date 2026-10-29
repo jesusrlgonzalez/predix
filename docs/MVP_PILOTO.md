@@ -2,7 +2,7 @@
 
 **Para quién:** supervisor y repartidores de una ruta de preventa o reparto de perecederos (pan, bolillo, leche fresca, pan dulce, tortillas) con 20 a 40 tiendas, o un mayorista que surte tienditas.
 **Qué decide:** cuántas piezas dejar de cada producto en cada tienda en la próxima visita.
-**Dónde se usa:** https://jesusgonzalezmexdata-ux.github.io/predix/ruta/. En la computadora para preparar la carga; en el celular, tienda por tienda.
+**Dónde se usa:** https://jesusrlgonzalez.github.io/predix/ruta/. En la computadora para preparar la carga; en el celular, tienda por tienda.
 
 ## 1. Datos
 
